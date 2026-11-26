@@ -1,5 +1,4 @@
 .venv/
 __pycache__/
 .ipynb_checkpoints/
-Data/gold_try.csv
 gold_price_prediction.ipynb
